@@ -35,10 +35,10 @@ def create_window():
 
 def spawn_windows():
     create_window()
-    root.after(3000, spawn_windows)  # كل 3 ثواني نافذة جديدة
+    root.after(1000, spawn_windows)  
 
 root = tk.Tk()
-root.withdraw()  # يخفي النافذة الأساسية
+root.withdraw()  
 
 spawn_windows()
 
