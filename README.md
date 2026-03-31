@@ -1,4 +1,5 @@
 # Funny play 😂
+<img width="512" height="512" alt="869636" src="https://github.com/user-attachments/assets/98cea9a4-12fe-4990-a0f5-7bbec2945624" />
 
 A funny Python prank application that opens multiple windows with fake "game" messages.  
 
