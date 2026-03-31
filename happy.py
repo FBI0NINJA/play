@@ -29,7 +29,7 @@ def create_window():
 
     write_text()
 
-    # يخليها فوق كل حاجة
+    #  تطلع فوق بعضها حاجه في قمة الضحك
     win.attributes("-topmost", True)
 
 def spawn_windows():
