@@ -13,8 +13,7 @@ messages = [
 def create_window():
     win = tk.Toplevel()
     win.configure(bg="black")
-
-    # مكان عشوائي
+    #---------------
     x = random.randint(0, 800)
     y = random.randint(0, 500)
     win.geometry(f"300x150+{x}+{y}")
